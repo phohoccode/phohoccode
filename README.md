@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phohoccode&show_icons=true&locale=en" alt="phohoccode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phohoccode&" alt="phohoccode" /></p>
+![GitHub Snake Animation](https://github.com/phohoccode/phohoccode/raw/output/snake.svg)
+
