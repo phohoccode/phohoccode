@@ -12,14 +12,19 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
+
       - name: Generate Snake Animation
         uses: Platane/snk@v2.0.0
         with:
           github_user_name: phohoccode
           output: dist/snake.svg
 
-      - name: Push generated Snake animation to the output branch
-        uses: actions/upload-artifact@v2
+      - name: Commit and Push Snake Animation
+        uses: ad-m/github-push-action@v0.6.0
         with:
-          name: snake.svg
-          path: dist/snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main  # Thay 'main' bằng nhánh bạn đang sử dụng nếu khác
+          # Đảm bảo rằng bạn đã commit các thay đổi trong thư mục 'dist/'
+          # Nếu thư mục 'dist/' chưa tồn tại, nó sẽ được tạo ra
+          file: dist/snake.svg
+          commit_message: "Update Snake Animation [skip ci]"
