@@ -6,7 +6,7 @@
 
 - 🌱 Hiện đang học tại trường **Sư phạm Kỹ Thuật Vĩnh long**
 
-- 💬 Hỏi tôi về **ReactJs, Nodejs, NextJs**
+- 💬 Hỏi tôi về **ReactJs, Nodejs, NextJs, Nestjs**
 
 - 📫 Liên hệ với tôi **qviet092@gmail.com**
 
