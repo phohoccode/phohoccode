@@ -4,11 +4,11 @@
 
 
 
-- 🌱 Hiện đang học tại trường **Sư phạm Kỹ Thuật Vĩnh long**
+- 🌱 Đang học tại trường: **Sư phạm Kỹ Thuật Vĩnh long**
 
-- 💬 Hỏi tôi về **ReactJs, Nodejs, NextJs, Nestjs**
+- 💬 Hỏi tôi về: **ReactJS, NodeJS, NextJS, NestJS**
 
-- 📫 Liên hệ với tôi **qviet092@gmail.com**
+- 📫 Liên hệ với tôi: **phodev.test@gmail.com** hoặc **https://t.me/phohoccode**
 
 
 
