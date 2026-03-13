@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Pho</h1>
+<h3 align="center">Fullstack Developer (JavaScript/TypeScript)</h3>
+
 ![MasterHead](https://raw.githubusercontent.com/phohoccode/phohoccode/refs/heads/main/animated-gif-ezgif.com-crop.gif)
 
  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/phohoccode/phohoccode/refs/heads/main/hihihi.gif"/> 
