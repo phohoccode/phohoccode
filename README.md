@@ -7,15 +7,17 @@
 
 
 
-- 🌱 Đang học tại trường: **Sư phạm Kỹ Thuật Vĩnh long**
+🌱 Học tại: **Trường Đại Học Sư phạm Kỹ Thuật Vĩnh long**
 
-- 💬 Hỏi tôi về: **ReactJS, NodeJS, NextJS, NestJS**
+💬 Trao đổi với tôi về: **ReactJS, NodeJS, NextJS, NestJS**
 
-- 📫 Liên hệ với tôi: **phodev.test@gmail.com** hoặc **https://t.me/phohoccode**
+📫 Liên hệ với tôi:
+Email: phodev.test@gmail.com
+Telegram: https://t.me/phohoccode
 
 
 
-<h3 align="left">Ngôn ngữ và Công cụ</h3>
+## 🚀 Tech Stack (Công nghệ sử dụng)
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
