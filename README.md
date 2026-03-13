@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/phohoccode/phohoccode/refs/heads/main/animated-gif-ezgif.com-crop.gif)
 
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> 
+ <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/phohoccode/phohoccode/refs/heads/main/hihihi.gif"/> 
 
 
 
