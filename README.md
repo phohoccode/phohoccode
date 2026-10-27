@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pho</h1>
-<h3 align="center">Fullstack Developer (JavaScript/TypeScript)</h3>
 
 ![MasterHead](https://raw.githubusercontent.com/phohoccode/phohoccode/refs/heads/main/animated-gif-ezgif.com-crop.gif)
 
@@ -7,7 +6,7 @@
 
 
 
-🌱 Học tại: **Trường Đại Học Sư phạm Kỹ Thuật Vĩnh long**
+🌱 Học tại: **Trường Đại Học Sư phạm Công Nghệ Vĩnh long**
 
 💬 Trao đổi với tôi về: **ReactJS, NodeJS, NextJS, NestJS**
 
