@@ -6,7 +6,7 @@
 
 
 
-🌱 Học tại: **Trường Đại Học Sư phạm Công Nghệ Vĩnh long**
+🌱 Học tại: **Trường Đại Học Công Nghệ Kỹ Thuật Vĩnh long**
 
 💬 Trao đổi với tôi về: **ReactJS, NodeJS, NextJS, NestJS**
 
